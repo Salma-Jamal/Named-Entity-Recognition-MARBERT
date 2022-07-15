@@ -5,6 +5,6 @@
    * of       => I_Country
    * America  => E_Country 
 
-2) Apply the metod Using: <br>
+2) Apply the pipeline Using: <br>
    * MARBERT: A pre-trained BERT-base Arabic masked language model.
    * The dataset is gathered from an Arabic chatbot.
